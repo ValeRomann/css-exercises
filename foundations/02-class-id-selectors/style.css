@@ -1,0 +1,18 @@
+.slight-red-bg {
+    background-color: hsl(0, 100%, 64%);
+}
+
+#second {
+    color: rgb(81, 81, 253);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(53, 175, 53);
+    font-size: 24px;
+    font-weight: bold;
+}
