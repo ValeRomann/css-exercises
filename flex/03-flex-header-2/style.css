@@ -20,7 +20,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 10px;
+  padding: 8px;
 }
 
 .profile-image {
@@ -63,5 +63,5 @@ ul {
 .header-right-side {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 16px;
 }
